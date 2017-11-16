@@ -1,6 +1,9 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+Link to site - https://tonycrosss.github.io/21_valid_markup/
+
+It takes grade A in YSlow2
+And it gets no errors with wc3 validator
 
 # Project Goals
 
